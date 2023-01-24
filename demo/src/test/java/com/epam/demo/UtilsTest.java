@@ -1,11 +1,11 @@
-package com.epam.utils;
+package com.epam.demo;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;
 
 import static com.epam.demo.Utils.isAllPositiveNumbers;
-
 
 class UtilsTest {
 
